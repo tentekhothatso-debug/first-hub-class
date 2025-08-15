@@ -1,4 +1,9 @@
-# MY INTRODUCTIONS TO GIT
+# TessBevs is a company that sells beverages!
 
+* The hero section uploaded consists of a navigation bar, pictures, headings, paragraph, button, social media icons from React icons, and also consists of cards.
 
-# This is _Khothatso_ _Tente_, you can call me **Tessa** its okay, but if you're cute and lovely, WELL, call me **Aus'Tente**. i'm a 3rd semester student at Botho University studying BSc(Hons) in COMPUTING. Yes! im a genius hence i chose to persue the mother of all the courses at Botho, "jokes". This leads me to the most exciting part i'd like to bite your ears about, not that im bragging but i got lucky enough to be found by the INNOVATION HUB in one of the classes at school, well it did **FIND** me because knowing about it made me take a-first-ever good decision in my life which is **JOINING THE HUB**. What i like the most about it is that we're all idiots that learn together in there, we build our innovative skills and we also find our passions in the TechWorld. What we do mostly is writing codes, which is fun and enjoyable. i am really happy that i got a chance to challenge my capabilities with the help of Our inspirational Brothers and Sisters in the Innovation Hub. NOW back to my business, i can't say i have a role in the Hub but if you need to laugh a lot, since the stress of codes that can't run hits badly, i'm your pal, stay close to me and you'll be as happy as i always am. hahaha! thanks bye.
+* i chose bright and dramatic colors for my Hero section because i realized during the process of its development that i'm a very dramatic and a happy person at all times, so i decided to go with that  combination of colors to represent my personality. 
+
+* _THE BUTTONS, NAVLINKS, SOCIAL ICONS AND THE HAMBURGER ICON_ **do not work**, It is the challenge that i encountered and i slightly failed to conquer, but im working on fixing them. 
+* Through this project, i learned a lot about Tailwindcss. From its installation to its implementtation, all of the styling in my project is done by Tailwindcss
+
